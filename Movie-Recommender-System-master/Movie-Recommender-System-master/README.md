@@ -1,5 +1,5 @@
 # Movie-Recommender-System
-Made by Roll no. 18bce205 and 18bce210.
+Made by Roll no. Sameer Raturi.
 
 Description - This system recommend the movies based on Demographic Filtering and also on the basis of Content Filtering.
 
